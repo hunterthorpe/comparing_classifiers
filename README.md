@@ -44,8 +44,9 @@ Your task in this question is to evaluate how the above methods for feature engi
      
      Accuracy of first four features: %
      
-    
-        Report 
+     
+___________    
+     Report 
 
 Which algorithm (decision trees or k-nn) in Task-2A performed better on this dataset? For k-nn, which value of k performed better? Explain your experiments and the results.
 
